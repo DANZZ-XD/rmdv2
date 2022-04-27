@@ -7,4 +7,4 @@ cd rmdv2
 
 python rmdv2.py
 
-#METODE PILIH YG DI SARANKAN
+# METODE PILIH YG DI SARANKAN
