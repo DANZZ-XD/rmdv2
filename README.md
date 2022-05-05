@@ -1,13 +1,13 @@
 
 
 # INSTALL SC
-git clone https://github.com/AingAmir/Bogor
+git clone https://github.com/AingAmir/rmdv2
 
 cd Bogor
 
 git pull
 
-python Bogor.py
+python rmdv2.py
 
  METODE PILIH YG DI SARANKAN
 
